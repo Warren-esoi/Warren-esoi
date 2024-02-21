@@ -1,5 +1,4 @@
 ### Hi there
-
 Here are some ideas to get you started:
 - 🔭 I’m currently working on Design project.
 - 🌱 I’m currently learning coding and programming ,graphic design.
@@ -8,5 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about coding and computer basics.  
 - 📫 How to reach me:warrenesoi0@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact:when i drink alcohol you call me alcoholic then whenever i drink fanta i should be called fantastic..
--->
+- ⚡ Fun fact:when i drink alcohol you call me alcoholic then whenever i drink fanta i should be called fantastic.
